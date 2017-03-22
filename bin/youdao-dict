@@ -3,4 +3,4 @@
 require 'youdao-dict'
 
 ## script entrace
-YoudaoDict.new.translate(ARGV.join ' ') if __FILE__ == $0
+YoudaoDict.new.translate(ARGV.join ' ')
