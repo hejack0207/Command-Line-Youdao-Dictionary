@@ -3,8 +3,8 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 require 'version'
 
 Gem::Specification.new do |s|
-  s.name        = 'youdao'
-  s.version     = Youdao::VERSION
+  s.name        = 'youdao-dict'
+  s.version     = YoudaoDict::VERSION
   s.authors     = ['hejack0207']
   s.email       = ['hejack0207@sina.com']
   s.license     = 'MIT'
